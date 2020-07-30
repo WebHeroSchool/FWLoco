@@ -1,0 +1,15 @@
+body {
+	font-family: montserratregular;
+	margin: 0;
+}
+.collection__container {
+	display: flex;
+}
+.collection__black {
+	background: #000;
+	max-height: 900px;
+	width: 461px;
+}
+.white__content {
+	display: flex;
+}
